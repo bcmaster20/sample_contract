@@ -1,7 +1,7 @@
-# Initial Coin Offering (ICO) contract
+# Initial Coin Offering contract
 
 Tutorial using Hardhat(Buidler) to complie, deploy and automated unit tests Solidity smart contract.  
-you use this repository as Initial Coin Offering (ICO) contract template or ERC20 template.   
+you use this repository as Initial Coin Offering contract template or ERC20 template.   
 To run these tutorials, you must have the following installed:
 
 - [nodejs](https://nodejs.org/en/)
